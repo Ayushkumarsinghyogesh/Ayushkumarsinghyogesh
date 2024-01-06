@@ -8,7 +8,7 @@
 
 - 💬 Ask me about **MACHINE LEARNING**
 
-- ⚡ Fun fact **I THINK YOU SHOULD CHECK YOUR NOSE**
+- ⚡ Fun fact **I THINK YOU SHOULD CHECK YOUR NOSEEY..🤧**
 
 
 
