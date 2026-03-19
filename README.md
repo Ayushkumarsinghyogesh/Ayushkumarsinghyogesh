@@ -10,9 +10,8 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=ayushkumarsinghyogesh&color=818cf8&style=flat-square&label=Profile+Views)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN)
-[![Gmail](https://img.shields.io/badge/Gmail-Contact-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL@gmail.com)
-[![Kaggle](https://img.shields.io/badge/Kaggle-Profile-20BEFF?style=flat-square&logo=kaggle&logoColor=white)](https://kaggle.com/YOUR_KAGGLE_USERNAME)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-818cf8?style=flat-square&logo=firefox&logoColor=white)](https://YOUR_PORTFOLIO_URL)
+[![Gmail](https://img.shields.io/badge/Gmail-Contact-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:ayushkumarsinghyogeshL@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-818cf8?style=flat-square&logo=firefox&logoColor=white)](https://portfoilo-three-tau.vercel.app/)
 
 </div>
 
