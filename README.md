@@ -10,8 +10,9 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=ayushkumarsinghyogesh&color=818cf8&style=flat-square&label=Profile+Views)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN)
-[![Gmail](https://img.shields.io/badge/Gmail-Contact-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:ayushkumarsinghyogeshL@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-818cf8?style=flat-square&logo=firefox&logoColor=white)](https://portfoilo-three-tau.vercel.app/)
+[![Gmail](https://img.shields.io/badge/Gmail-Contact-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL@gmail.com)
+[![Kaggle](https://img.shields.io/badge/Kaggle-Profile-20BEFF?style=flat-square&logo=kaggle&logoColor=white)](https://kaggle.com/YOUR_KAGGLE_USERNAME)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-818cf8?style=flat-square&logo=firefox&logoColor=white)](https://YOUR_PORTFOLIO_URL)
 
 </div>
 
@@ -74,192 +75,16 @@ class AyushKumar:
 
 ## 🛠️ Tech Stack
 
-<br/>
+<!-- ─────────────────────────────────────────────────────────────
+     IMPORTANT SETUP STEP:
+     1. Upload the file  tech-stack.svg  into your profile repo
+        (same repo as this README — just drag & drop it on GitHub)
+     2. The line below will then render the full animated card grid
+──────────────────────────────────────────────────────────────── -->
 
 <div align="center">
-
-<!-- ════════════════════════════════════════ -->
-<!--            AI / ML / DATA SCIENCE       -->
-<!-- ════════════════════════════════════════ -->
-
-### 🤖 &nbsp; AI &nbsp;/&nbsp; ML &nbsp;/&nbsp; Data Science
-
-<table>
-  <tr>
-    <td align="center" width="130">
-      <img src="https://skillicons.dev/icons?i=python" width="48" height="48" alt="Python"/><br/>
-      <sub><b>Python</b></sub>
-    </td>
-    <td align="center" width="130">
-      <img src="https://skillicons.dev/icons?i=tensorflow" width="48" height="48" alt="TensorFlow"/><br/>
-      <sub><b>TensorFlow</b></sub>
-    </td>
-    <td align="center" width="130">
-      <img src="https://skillicons.dev/icons?i=opencv" width="48" height="48" alt="OpenCV"/><br/>
-      <sub><b>OpenCV</b></sub>
-    </td>
-    <td align="center" width="130">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" width="48" height="48" alt="Pandas"/><br/>
-      <sub><b>Pandas</b></sub>
-    </td>
-    <td align="center" width="130">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" width="48" height="48" alt="NumPy"/><br/>
-      <sub><b>NumPy</b></sub>
-    </td>
-    <td align="center" width="130">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="48" height="48" alt="scikit-learn"/><br/>
-      <sub><b>scikit-learn</b></sub>
-    </td>
-  </tr>
-</table>
-
-<br/>
-
-<!-- ════════════════════════════════════════ -->
-<!--              WEB — FRONTEND             -->
-<!-- ════════════════════════════════════════ -->
-
-### 🎨 &nbsp; Web &nbsp;—&nbsp; Frontend
-
-<table>
-  <tr>
-    <td align="center" width="130">
-      <img src="https://skillicons.dev/icons?i=react" width="48" height="48" alt="React"/><br/>
-      <sub><b>React</b></sub>
-    </td>
-    <td align="center" width="130">
-      <img src="https://skillicons.dev/icons?i=angular" width="48" height="48" alt="Angular"/><br/>
-      <sub><b>Angular</b></sub>
-    </td>
-    <td align="center" width="130">
-      <img src="https://skillicons.dev/icons?i=js" width="48" height="48" alt="JavaScript"/><br/>
-      <sub><b>JavaScript</b></sub>
-    </td>
-    <td align="center" width="130">
-      <img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML5"/><br/>
-      <sub><b>HTML5</b></sub>
-    </td>
-    <td align="center" width="130">
-      <img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="CSS3"/><br/>
-      <sub><b>CSS3</b></sub>
-    </td>
-    <td align="center" width="130">
-      <img src="https://skillicons.dev/icons?i=bootstrap" width="48" height="48" alt="Bootstrap"/><br/>
-      <sub><b>Bootstrap</b></sub>
-    </td>
-  </tr>
-</table>
-
-<br/>
-
-<!-- ════════════════════════════════════════ -->
-<!--              WEB — BACKEND              -->
-<!-- ════════════════════════════════════════ -->
-
-### ⚙️ &nbsp; Web &nbsp;—&nbsp; Backend
-
-<table>
-  <tr>
-    <td align="center" width="130">
-      <img src="https://skillicons.dev/icons?i=rails" width="48" height="48" alt="Ruby on Rails"/><br/>
-      <sub><b>Ruby on Rails</b></sub>
-    </td>
-    <td align="center" width="130">
-      <img src="https://skillicons.dev/icons?i=ruby" width="48" height="48" alt="Ruby"/><br/>
-      <sub><b>Ruby</b></sub>
-    </td>
-    <td align="center" width="130">
-      <img src="https://skillicons.dev/icons?i=nodejs" width="48" height="48" alt="Node.js"/><br/>
-      <sub><b>Node.js</b></sub>
-    </td>
-    <td align="center" width="130">
-      <img src="https://skillicons.dev/icons?i=django" width="48" height="48" alt="Django"/><br/>
-      <sub><b>Django</b></sub>
-    </td>
-    <td align="center" width="130">
-      <img src="https://skillicons.dev/icons?i=express" width="48" height="48" alt="Express"/><br/>
-      <sub><b>Express.js</b></sub>
-    </td>
-  </tr>
-</table>
-
-<br/>
-
-<!-- ════════════════════════════════════════ -->
-<!--           DATABASES & CLOUD             -->
-<!-- ════════════════════════════════════════ -->
-
-### 🗄️ &nbsp; Databases &nbsp;&amp;&nbsp; Cloud
-
-<table>
-  <tr>
-    <td align="center" width="130">
-      <img src="https://skillicons.dev/icons?i=mongodb" width="48" height="48" alt="MongoDB"/><br/>
-      <sub><b>MongoDB</b></sub>
-    </td>
-    <td align="center" width="130">
-      <img src="https://skillicons.dev/icons?i=mysql" width="48" height="48" alt="MySQL"/><br/>
-      <sub><b>MySQL</b></sub>
-    </td>
-    <td align="center" width="130">
-      <img src="https://skillicons.dev/icons?i=postgres" width="48" height="48" alt="PostgreSQL"/><br/>
-      <sub><b>PostgreSQL</b></sub>
-    </td>
-    <td align="center" width="130">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" width="48" height="48" alt="Oracle"/><br/>
-      <sub><b>Oracle</b></sub>
-    </td>
-    <td align="center" width="130">
-      <img src="https://skillicons.dev/icons?i=aws" width="48" height="48" alt="AWS"/><br/>
-      <sub><b>AWS</b></sub>
-    </td>
-    <td align="center" width="130">
-      <img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git"/><br/>
-      <sub><b>Git</b></sub>
-    </td>
-  </tr>
-</table>
-
-<br/>
-
-<!-- ════════════════════════════════════════ -->
-<!--         MOBILE, SYSTEMS & OTHER         -->
-<!-- ════════════════════════════════════════ -->
-
-### 📱 &nbsp; Mobile, Systems &nbsp;&amp;&nbsp; Other
-
-<table>
-  <tr>
-    <td align="center" width="130">
-      <img src="https://skillicons.dev/icons?i=flutter" width="48" height="48" alt="Flutter"/><br/>
-      <sub><b>Flutter</b></sub>
-    </td>
-    <td align="center" width="130">
-      <img src="https://skillicons.dev/icons?i=androidstudio" width="48" height="48" alt="Android"/><br/>
-      <sub><b>Android</b></sub>
-    </td>
-    <td align="center" width="130">
-      <img src="https://skillicons.dev/icons?i=swift" width="48" height="48" alt="Swift"/><br/>
-      <sub><b>Swift</b></sub>
-    </td>
-    <td align="center" width="130">
-      <img src="https://skillicons.dev/icons?i=arduino" width="48" height="48" alt="Arduino"/><br/>
-      <sub><b>Arduino</b></sub>
-    </td>
-    <td align="center" width="130">
-      <img src="https://skillicons.dev/icons?i=unity" width="48" height="48" alt="Unity"/><br/>
-      <sub><b>Unity3D</b></sub>
-    </td>
-    <td align="center" width="130">
-      <img src="https://skillicons.dev/icons?i=cpp" width="48" height="48" alt="C++"/><br/>
-      <sub><b>C / C++</b></sub>
-    </td>
-  </tr>
-</table>
-
+  <img src="./tech-stack.svg" alt="Ayush Kumar Tech Stack" width="100%" />
 </div>
-
-<br/>
 
 ---
 
@@ -269,17 +94,18 @@ class AyushKumar:
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayushkumarsinghyogesh&layout=compact&langs_count=10&theme=github_dark&hide_border=true&bg_color=060810&title_color=818cf8&text_color=c8cdd8" width="60%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayushkumarsinghyogesh&layout=compact&langs_count=10&theme=github_dark&hide_border=true&bg_color=060810&title_color=818cf8&text_color=c8cdd8" />
 
 </div>
 
 ---
 
 ## 📡 Activity
-<div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ayushkumarsinghyogesh&bg_color=060810&color=818cf8&line=6366f1&point=34d399&area=true&area_color=6366f1&hide_border=true&custom_title=Ayush%27s%20Contribution%20Graph&title_color=818cf8" width="80%" />
 
-<img src="https://streak-stats.demolab.com?user=ayushkumarsinghyogesh&theme=github-dark-blue&hide_border=true&background=060810&stroke=1a1f2e&ring=6366f1&fire=818cf8&currStreakLabel=818cf8&sideNums=c8cdd8&dates=475569&sideLabels=475569&currStreakNum=e2e8f0" width="80%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ayushkumarsinghyogesh&bg_color=060810&color=818cf8&line=6366f1&point=34d399&area=true&area_color=6366f1&hide_border=true&custom_title=Ayush%27s%20Contribution%20Graph&title_color=818cf8" width="100%" />
+
+<div align="center">
+<img src="https://streak-stats.demolab.com?user=ayushkumarsinghyogesh&theme=github-dark-blue&hide_border=true&background=060810&stroke=1a1f2e&ring=6366f1&fire=818cf8&currStreakLabel=818cf8&sideNums=c8cdd8&dates=475569&sideLabels=475569&currStreakNum=e2e8f0" width="100%" />
 </div>
 
 ---
