@@ -86,7 +86,11 @@ class AyushKumar:
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayushkumarsinghyogesh&layout=compact&langs_count=10&theme=github_dark&hide_border=true&bg_color=060810&title_color=818cf8&text_color=c8cdd8" width="80%" />
+<img 
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayushkumarsinghyogesh&layout=compact&langs_count=10&theme=github_dark&hide_border=true&bg_color=060810&title_color=818cf8&text_color=c8cdd8&text_size=10" 
+  width="80%" 
+  height="30%" 
+/>
 
 </div>
 
