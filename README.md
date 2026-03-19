@@ -9,10 +9,9 @@
 <br/><br/>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=ayushkumarsinghyogesh&color=818cf8&style=flat-square&label=Profile+Views)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN)
-[![Gmail](https://img.shields.io/badge/Gmail-Contact-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL@gmail.com)
-[![Kaggle](https://img.shields.io/badge/Kaggle-Profile-20BEFF?style=flat-square&logo=kaggle&logoColor=white)](https://kaggle.com/YOUR_KAGGLE_USERNAME)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-818cf8?style=flat-square&logo=firefox&logoColor=white)](https://YOUR_PORTFOLIO_URL)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/im-ayush-kumar/)
+[![Gmail](https://img.shields.io/badge/Gmail-Contact-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:ayushkumarsinghyogesh@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-818cf8?style=flat-square&logo=firefox&logoColor=white)](https://portfoilo-three-tau.vercel.app/)
 
 </div>
 
@@ -60,27 +59,20 @@ class AyushKumar:
 
 ---
 
-## 🔬 Focus Areas
-
-| Domain | What I work with |
-|--------|-----------------|
-| 🤖 **AI / Machine Learning** | TensorFlow, OpenCV, scikit-learn, Pandas, NumPy, Python |
-| 🌐 **Full-Stack Web** | React, Angular, **Ruby on Rails**, Node.js, Django, Express |
-| 🗄️ **Databases & Cloud** | MongoDB, MySQL, PostgreSQL, Oracle, AWS |
-| 📱 **Mobile Development** | Flutter (cross-platform), Android (native), Swift (iOS) |
-| ⚙️ **Systems & Hardware** | Arduino, C/C++, Unity3D (ML-Agents), IoT |
-| 🔭 **Currently Exploring** | LLMs, RAG, MLOps, Advanced CV, Rails API patterns |
-
+## 🔬 Current Focus Areas
+<div align="center">
+  | Domain | What I work with |
+  |--------|-----------------|
+  | 🤖 **AI / Machine Learning** | TensorFlow, OpenCV, scikit-learn, Pandas, NumPy, Python |
+  | 🌐 **Full-Stack Web** | React, Angular, Ruby on Rails, Node.js, Django, Express |
+  | 🗄️ **Databases & Cloud** | MongoDB, MySQL, PostgreSQL, Oracle, AWS |
+  | 📱 **Mobile Development** | Flutter (cross-platform), Android (native) |
+  | ⚙️ **Systems & Hardware** | Arduino, C/C++, Unity3D (ML-Agents), IoT |
+  | 🔭 **Currently Exploring** | LLMs, RAG, MLOps, Advanced CV, Rails API patterns |
+</div>
 ---
 
-## 🛠️ Tech Stack
-
-<!-- ─────────────────────────────────────────────────────────────
-     IMPORTANT SETUP STEP:
-     1. Upload the file  tech-stack.svg  into your profile repo
-        (same repo as this README — just drag & drop it on GitHub)
-     2. The line below will then render the full animated card grid
-──────────────────────────────────────────────────────────────── -->
+## 🛠️ My Tech Stack
 
 <div align="center">
   <img src="./tech-stack.svg" alt="Ayush Kumar Tech Stack" width="100%" />
@@ -94,13 +86,16 @@ class AyushKumar:
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayushkumarsinghyogesh&layout=compact&langs_count=10&theme=github_dark&hide_border=true&bg_color=060810&title_color=818cf8&text_color=c8cdd8" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayushkumarsinghyogesh&layout=compact&langs_count=10&theme=github_dark&hide_border=true&bg_color=060810&title_color=818cf8&text_color=c8cdd8" width="80%" />
 
 </div>
 
 ---
 
 ## 📡 Activity
+
+<div align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ayushkumarsinghyogesh&bg_color=060810&color=818cf8&line=6366f1&point=34d399&area=true&area_color=6366f1&hide_border=true&custom_title=Ayush%27s%20Contribution%20Graph&title_color=818cf8" width="80%" />
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=ayushkumarsinghyogesh&bg_color=060810&color=818cf8&line=6366f1&point=34d399&area=true&area_color=6366f1&hide_border=true&custom_title=Ayush%27s%20Contribution%20Graph&title_color=818cf8" width="100%" />
 
@@ -118,7 +113,7 @@ class AyushKumar:
 - 📱 Exploring advanced **Flutter** and **native Android** patterns
 - 🔧 Experimenting with **Arduino IoT** and cloud sensor pipelines
 - 💬 Ask me about **React, Ruby on Rails, Node.js, TensorFlow, Flutter, or system design**
-- 📫 Reach me: **YOUR_EMAIL@gmail.com**
+- 📫 Reach me: **ayushkumarsinghyogesh@gmail.com**
 - ⚡ Fun fact: I build across 5+ domains — web, mobile, AI, hardware, and game dev
 
 ---
@@ -127,11 +122,9 @@ class AyushKumar:
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN)
-[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=white)](https://YOUR_PORTFOLIO_URL)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL@gmail.com)
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/YOUR_TWITTER)
-[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white)](https://kaggle.com/YOUR_KAGGLE_USERNAME)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/im-ayush-kumar/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=white)](https://portfoilo-three-tau.vercel.app/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ayushkumarsinghyogesh@gmail.com)
 
 </div>
 
