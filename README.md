@@ -269,18 +269,17 @@ class AyushKumar:
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayushkumarsinghyogesh&layout=compact&langs_count=10&theme=github_dark&hide_border=true&bg_color=060810&title_color=818cf8&text_color=c8cdd8" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayushkumarsinghyogesh&layout=compact&langs_count=10&theme=github_dark&hide_border=true&bg_color=060810&title_color=818cf8&text_color=c8cdd8" width="60%" />
 
 </div>
 
 ---
 
 ## 📡 Activity
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ayushkumarsinghyogesh&bg_color=060810&color=818cf8&line=6366f1&point=34d399&area=true&area_color=6366f1&hide_border=true&custom_title=Ayush%27s%20Contribution%20Graph&title_color=818cf8" width="100%" />
-
 <div align="center">
-<img src="https://streak-stats.demolab.com?user=ayushkumarsinghyogesh&theme=github-dark-blue&hide_border=true&background=060810&stroke=1a1f2e&ring=6366f1&fire=818cf8&currStreakLabel=818cf8&sideNums=c8cdd8&dates=475569&sideLabels=475569&currStreakNum=e2e8f0" width="100%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ayushkumarsinghyogesh&bg_color=060810&color=818cf8&line=6366f1&point=34d399&area=true&area_color=6366f1&hide_border=true&custom_title=Ayush%27s%20Contribution%20Graph&title_color=818cf8" width="80%" />
+
+<img src="https://streak-stats.demolab.com?user=ayushkumarsinghyogesh&theme=github-dark-blue&hide_border=true&background=060810&stroke=1a1f2e&ring=6366f1&fire=818cf8&currStreakLabel=818cf8&sideNums=c8cdd8&dates=475569&sideLabels=475569&currStreakNum=e2e8f0" width="80%" />
 </div>
 
 ---
