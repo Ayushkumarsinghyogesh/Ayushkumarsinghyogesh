@@ -35,7 +35,7 @@ class AyushKumar:
 
         self.web_stack = {
             "frontend" : ["React", "Angular", "HTML5", "CSS3", "Bootstrap", "JavaScript"],
-            "backend"  : ["Ruby on Rails", "Node.js", "Express", "Django"],
+            "backend"  : ["Ruby on Rails", "Node.js", "FastAPI", "Django"],
             "databases": ["MongoDB", "MySQL", "PostgreSQL", "Oracle"],
             "cloud"    : ["AWS", "Git"],
         }
